@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working [@RSSB](https://twitter.com/RSSB_Rwanda) 
+- 🔭 I do backend [@RSSB](https://twitter.com/RSSB_Rwanda) 
+-  🔭 I’m currently learning GraphQL & Kafka
 - 💬 Ask me about [Flask](https://flask.palletsprojects.com/en/2.0.x/), [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/doc/stable/reference/index.html#reference), [Matplotlib](https://matplotlib.org/), [Plotly](https://plotly.com/dash/), [NestJS](https://nestjs.com/), Github, SQL
 
 
